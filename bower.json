@@ -18,6 +18,8 @@
   "dependencies": {
     "polymer": "Polymer/polymer#2.0.0-rc.1",
     "polymerfire": "firebase/polymerfire#2.0-preview",
-    "paper-button": "PolymerElements/paper-button#2.0-preview"
+    "paper-button": "PolymerElements/paper-button#2.0-preview",
+    "paper-input": "PolymerElements/paper-input#2.0-preview",
+    "iron-flex-layout": "PolymerElements/iron-flex-layout#2.0-preview"
   }
 }
