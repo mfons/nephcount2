@@ -1,0 +1,23 @@
+{
+  "name": "nephcount",
+  "authors": [
+    "Michael A. Fons <mfons@squaretwofinancial.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#2.0.0-rc.1",
+    "polymerfire": "firebase/polymerfire#2.0-preview",
+    "paper-button": "PolymerElements/paper-button#2.0-preview"
+  }
+}
